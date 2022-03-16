@@ -10,9 +10,7 @@
   
 <div align="center">
 <img align="left" alt="VisualStudioCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/unity/unity-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Photshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Canva" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/canva/canva-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Trello" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" style="padding-right:10px;" /> 
 </div> <br>
   
@@ -23,10 +21,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" style="padding-right:10px;" /> 
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="NodeJs" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
-  
-
   
  <br></br>
 
