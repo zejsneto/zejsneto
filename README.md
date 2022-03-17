@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-### Softwares:
+### Ferramentas:
   
 <div align="center">
 <img align="left" alt="VisualStudioCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
