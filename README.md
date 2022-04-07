@@ -1,5 +1,5 @@
 ## 👋Olá! Eu sou o José Neto.
-## 📚Estudando Ciências da Computação │ Centro Universitário FEI (Turma de 2024).
+## 📚Cursando Ciências da Computação │ Centro Universitário FEI (Turma de 2024).
 
 <div >
   <a href="https://github.com/zesjneto">
