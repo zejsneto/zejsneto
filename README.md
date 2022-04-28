@@ -21,6 +21,7 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" style="padding-right:10px;" /> 
 <img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" style="padding-right:10px;" /> 
+<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" /> 
   
  <br></br>
 
