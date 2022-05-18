@@ -1,35 +1,60 @@
-## 👋Olá! Eu sou o José Neto.
-## 📚Cursando Ciências da Computação │ Centro Universitário FEI (Turma de 2024).
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maykbrito/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>-->
 
-<div >
-  <a href="https://github.com/zesjneto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Me chamo Zé Neto</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /> </p>
 
-### Ferramentas:
-  
-<div align="center">
-<img align="left" alt="VisualStudioCode" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Photshop" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />
-<img align="left" alt="Trello" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/trello/trello-plain.svg" style="padding-right:10px;" /> 
-</div> <br>
-  
-### Linguagens:  
-  
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" style="padding-right:10px;" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original.svg" style="padding-right:10px;" /> 
-<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" style="padding-right:10px;" /> 
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" style="padding-right:10px;" /> 
-  
- <br></br>
+- 📚 Ciências da Computação │ Centro Universitário FEI
 
-<div> 
-  <a href="https://instagram.com/zejsneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:zeneto2508@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/zejsneto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<!---- 🔭 Atualmente trabalhando em [Empresa](https://github.com/empresa)-->
+
+- 👨‍💻 Veja meu portfólio em [devzeneto.com.br](https://devzeneto.com.br)
+
+- ▶️ Se inscreva no meu canal [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w)
+
+- 💬 Mande-me um e-mail ou uma DM, vamos conversar!
+
+## ⚙️ &nbsp;Dados do HitHub
+<a href="https://github.com/zesjneto">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejsneto&layout=compact&theme=dark" alt="zejsneto's most languages"/>
+
+
+## 🛠 &nbsp;Ferramentas
+  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+<!---
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+-->
+
+## 📲 &nbsp;Redes Sociais
+
+<p align="left" style="background:yellow">
+<a href="https://linkedin.com/in/zejsneto" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="devzeneto.com.br" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=codepen" alt="codepen"/>
+</a>
+<a href="https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=youtube" alt="youtube"/>
+</a>
+<a href="https://twitter.com/zejsneto" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=twitter" alt="twitter"/>  
+</a>
+<a href="https://instagram.com/zejsneto" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
 
 
 
