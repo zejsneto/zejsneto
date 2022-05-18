@@ -14,7 +14,6 @@
 - 💬 Mande-me um e-mail ou uma DM, vamos conversar!
 
 ## ⚙️ &nbsp;Dados do HitHub
-<a href="https://github.com/zesjneto">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" width="456.92" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejsneto&layout=compact&theme=dark" alt="zejsneto's most languages"/>
 
