@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/zejsneto/b2b0a402cf4441948e60d86245205a69/raw/4e27e4c46023f762b9cf7faad2d4ffccbe3373d1/githubcard.svg"/>
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/zejsneto/b2b0a402cf4441948e60d86245205a69/raw/4e27e4c46023f762b9cf7faad2d4ffccbe3373d1/githubcard.svg"/>-->
 
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, Me chamo Zé Neto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /> </p>
@@ -12,8 +12,6 @@
 - ▶️ Se inscreva no meu canal [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w)
 
 - 💬 Mande-me um e-mail ou uma DM, vamos conversar!
-
-<br></br>
 
 ## 🛠 &nbsp;Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -50,8 +48,6 @@
  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<br></br>
 
 ## ⚙️ &nbsp;Dados do HitHub
 <a href="https://github.com/zesjneto">
