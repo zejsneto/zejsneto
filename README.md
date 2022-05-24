@@ -14,8 +14,10 @@
 - 💬 Mande-me um e-mail ou uma DM, vamos conversar!
 
 ## ⚙️ &nbsp;Dados do HitHub
+<div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejsneto&layout=compact&theme=dark" alt="zejsneto's most languages"/>
+</div>
 
 ## 🛠 &nbsp;Ferramentas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
