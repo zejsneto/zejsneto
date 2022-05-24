@@ -5,11 +5,11 @@
 
 - 📚 Ciências da Computação │ Centro Universitário FEI
 
-<!---- 🔭 Atualmente trabalhando em [Empresa](https://github.com/empresa)-->
+<!---- 🔭 Atualmente trabalhando em [Empresa](https://github.com/empresa) -->
 
-- 👨‍💻 Veja meu portfólio em [devzeneto.com.br](https://devzeneto.com.br)
+<!---- 👨‍💻 Veja meu portfólio em [devzeneto.com.br](https://devzeneto.com.br) -->
 
-- ▶️ Se inscreva no meu canal [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w)
+<!---- ▶️ Se inscreva no meu canal [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
 
 - 💬 Mande-me um e-mail ou uma DM, vamos conversar!
 
