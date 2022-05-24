@@ -40,13 +40,13 @@
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/zejsneto" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
+</a> <!---
 <a href="devzeneto.com.br" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
+</a> --> <!---
 <a href="https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=youtube" alt="youtube"/>
-</a>
+</a> -->
 <a href="https://twitter.com/zejsneto" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
