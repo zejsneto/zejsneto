@@ -33,6 +33,8 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=mysql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-postgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 -->
 
 ## 📲 &nbsp;Redes Sociais
