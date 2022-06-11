@@ -11,7 +11,7 @@
 
 <!---- ▶️ Se inscreva no meu canal [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
 
-- 💬 Mande-me um e-mail ou uma DM, vamos conversar!
+- 💬 Mande-me um e-mail ou uma 'dm', vamos conversar!
 
 ## ⚙️ &nbsp;Dados do HitHub
 <div align="center">
