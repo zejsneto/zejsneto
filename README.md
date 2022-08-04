@@ -1,9 +1,9 @@
 <!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/zejsneto/b2b0a402cf4441948e60d86245205a69/raw/4e27e4c46023f762b9cf7faad2d4ffccbe3373d1/githubcard.svg"/>-->
 
-<h1>Olá<!---- align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px"> --->👋, me chamo Zé Neto</h1>
+<h1>Hello<!---- align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px"> --->👋, I'm Zé Neto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /> </p>
 
-- 📚 Ciências da Computação │ Centro Universitário FEI
+- 📚 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
 
 <!---- 🔭 Atualmente trabalhando em [Empresa](https://github.com/empresa) -->
 
@@ -11,15 +11,15 @@
 
 <!---- ▶️ Se inscreva no meu canal [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
 
-- 💬 Mande-me um e-mail ou uma 'dm', vamos conversar!
+- 💬 Send me an email, let's talk!
 
-## ⚙️ &nbsp;Dados do HitHub
+## ⚙️ &nbsp;GitHub Data
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejsneto&layout=compact&theme=dark" alt="zejsneto's most languages"/>
 </div>
 
-## 🛠 &nbsp;Ferramentas
+## 🛠 &nbsp;Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -37,7 +37,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-postgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 -->
 
-## 📲 &nbsp;Redes Sociais
+## 📲 &nbsp;Socials
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/zejsneto" target="_blank">
