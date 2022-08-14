@@ -11,7 +11,7 @@
 
 <!---- ▶️ Se inscreva no meu canal [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
 
-- 💬 Send me an email, let's talk!
+- 💬 Send me an email or a 'dm', let's talk!
 
 ## ⚙️ &nbsp;GitHub Data
 <div align="center">
