@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/zejsneto/b2b0a402cf4441948e60d86245205a69/raw/4e27e4c46023f762b9cf7faad2d4ffccbe3373d1/githubcard.svg"/>
+<!--<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/zejsneto/b2b0a402cf4441948e60d86245205a69/raw/4e27e4c46023f762b9cf7faad2d4ffccbe3373d1/githubcard.svg"/>-->
 
 <h1>Hello<!---- align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="1px"> --->👋, I'm Zé Neto</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /> </p>
