@@ -9,7 +9,7 @@
 
 <!---- 👨‍💻 View my portfolio [devzeneto.com.br](https://devzeneto.com.br) -->
 
-<!---- ▶️ Subscribe on my channel [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
+<!---- ▶️ Subscribe on(to?) my channel [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
 
 - 💬 Send me an email or a 'dm', let's talk!
 
