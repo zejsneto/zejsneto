@@ -7,9 +7,9 @@
 
 <!---- 🔭 Currently working at [Empresa](https://github.com/empresa) -->
 
-<!---- 👨‍💻 View my portfolio [devzeneto.com.br](https://devzeneto.com.br) -->
+<!---- 👨‍💻 View my portfolio [zejsneto.com.br](https://devzeneto.com.br) -->
 
-<!---- ▶️ Subscribe on(to?) my channel [youtube.com/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
+<!---- ▶️ Subscribe to my channel [youtube.com/c/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
 
 - 💬 Send me an email or a dm, let's get in touch!
 
