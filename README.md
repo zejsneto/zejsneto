@@ -3,7 +3,7 @@
 
 - 📚 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
 
-- 🔭 Currently working at [OTIS Elevadores](https://www.otis.com/pt/br) 
+- 💼 Currently working at [OTIS Elevadores](https://www.otis.com/pt/br) 
 
 <!---- 👨‍💻 View my portfolio [zejsneto.com.br](https://devzeneto.com.br) -->
 
@@ -13,8 +13,8 @@
 
 ## ⚙️ &nbsp;GitHub Data
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejsneto&layout=compact&theme=dark" alt="zejsneto's most languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejsneto&layout=compact&theme=dark" alt="zejsneto's most languages"/>
 </div>
 
 ## 🛠 &nbsp;Languages & Tools
