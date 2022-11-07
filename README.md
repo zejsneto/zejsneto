@@ -5,7 +5,7 @@
 
 - 📚 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
 
-<!---- 🔭 Currently working at [Empresa](https://github.com/empresa) -->
+- 🔭 Currently working at [OTIS Elevadores](https://www.otis.com/pt/br) 
 
 <!---- 👨‍💻 View my portfolio [zejsneto.com.br](https://devzeneto.com.br) -->
 
