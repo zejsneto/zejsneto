@@ -1,4 +1,4 @@
-<h1 align="left">Hello👋, I'm Zé Neto <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /></h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi">, I'm Zé Neto - CRM Intern <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /></h1>
 
 
 - 📚 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
@@ -11,13 +11,9 @@
 
 - 💬 Send me an email or a dm, let's get in touch!
 
-## ⚙️ &nbsp;GitHub Data
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejsneto&layout=compact&theme=dark" alt="zejsneto's most languages"/>
-</div>
-
 ## 🛠 &nbsp;Languages & Tools
+![Dynamics 365](https://img.shields.io/badge/-Dynamics_365-05122A?style=flat&logo=dynamics365)&nbsp;
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=1572B6)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -58,3 +54,9 @@
  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
+
+## 📊 &nbsp;Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zejsneto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zejsneto&layout=compact&theme=dark" alt="zejsneto's most languages"/>
+</div>
