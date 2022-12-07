@@ -1,4 +1,4 @@
-<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi">, I'm Zé Neto - CRM Intern <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /></h1>
+<h1 align="left">Hello <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" alt="hand saying ola"width="30px" alt="hand_saying_ hi">, I'm José Neto - CRM Intern <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /></h1>
 
 
 - 📚 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
