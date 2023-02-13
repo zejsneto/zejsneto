@@ -3,11 +3,11 @@
 
 - 📚 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
 
-<!---- - 💼 Currently working at [OTIS Elevadores](https://www.otis.com/pt/br) --> 
+<!---- - 💼 Currently working at [Company](https://www.company.com/) --> 
 
-<!---- 👨‍💻 View my portfolio [zejsneto.com.br](https://devzeneto.com.br) -->
+<!---- 👨‍💻 View my portfolio [mysite.com.br](https://mysite.com.br) -->
 
-<!---- ▶️ Subscribe to my channel [youtube.com/c/zejsneto](https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w) -->
+<!---- ▶️ Subscribe to my channel [youtube.com/c/channelname](https://www.youtube.com/channel/link) -->
 
 - 💬 Send me an email or a dm, let's get in touch!
 
@@ -41,10 +41,10 @@
 <a href="https://linkedin.com/in/zejsneto" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a> <!---
-<a href="devzeneto.com.br" target="_blank">
+<a href="mysite.com.br" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a> --> <!---
-<a href="https://www.youtube.com/channel/UC-9o0RA92kVofWX21cs1n2w" target="_blank">
+<a href="https://www.youtube.com/channel/mychannel" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a> -->
 <a href="https://twitter.com/zejsneto" target="_blank">
