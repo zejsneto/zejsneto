@@ -1,4 +1,4 @@
-<h1 align="left">Hello, I'm José Neto <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=yellow" alt="Profile views" /></h1>
+<h1 align="left">Hello, I'm José Neto <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=blue" alt="Profile views" /></h1>
 
 
 - 📚 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
@@ -39,7 +39,7 @@
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/zejsneto" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-in/zejsneto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a> <!---
 <a href="mysite.com.br" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=codepen" alt="codepen"/>
@@ -48,10 +48,10 @@
  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a> -->
 <a href="https://twitter.com/zejsneto" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-@zejsneto-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://instagram.com/zejsneto" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-@zejsneto-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
