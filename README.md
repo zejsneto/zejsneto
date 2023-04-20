@@ -1,7 +1,8 @@
 <h1 align="left">Hello, I'm José Neto <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=blue" alt="Profile views" /></h1>
 
+- 🎓 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
 
-- 📚 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
+- 📚 Currently learning Game Development
 
 <!---- - 💼 Currently working at [Company](https://www.company.com/) --> 
 
@@ -10,6 +11,8 @@
 <!---- ▶️ Subscribe to my channel [youtube.com/c/channelname](https://www.youtube.com/channel/link) -->
 
 - 💬 Send me an email or a dm, let's get in touch!
+
+- 🌎 From São Paulo, Brazil.
 
 ## 🛠 &nbsp;Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
