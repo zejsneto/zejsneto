@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I'm José Neto <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=blue" alt="Profile views" /></h1>
 
-- 🎓 Computer Science │ [Centro Universitário FEI](https://portal.fei.edu.br/).
+- 🎓 Computer Science (2024) │ [Centro Universitário FEI](https://portal.fei.edu.br/).
 
 - 📚 Currently learning Game Development
 
