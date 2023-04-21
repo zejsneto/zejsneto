@@ -12,7 +12,7 @@
 
 - 💬 Send me an email or a dm, let's get in touch!
 
-- 🌎 From São Paulo, Brazil.
+<!----- - 🌎 From São Paulo, Brazil. -->
 
 ## 🛠 &nbsp;Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
