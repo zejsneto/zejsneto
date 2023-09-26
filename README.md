@@ -6,13 +6,13 @@
 
 <!---- - 💼 Currently working at [Company](https://www.company.com/) --> 
 
-<!---- 👨‍💻 View my portfolio [mysite.com.br](https://mysite.com.br) -->
+- 👨‍💻 View my portfolio [josejsneto.com.br](https://josejsneto.com.br/)
 
 <!---- ▶️ Subscribe to my channel [youtube.com/c/channelname](https://www.youtube.com/channel/link) -->
 
 - 💬 Send me an email or a dm, let's get in touch!
 
-<!----- - 🌎 From São Paulo, Brazil. -->
+- 🌎 From São Paulo, Brazil.
 
 ## 🛠 &nbsp;Languages & Tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
