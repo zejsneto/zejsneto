@@ -17,7 +17,7 @@
 ## 🛠 &nbsp;Languages & Tools
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=c-sharp)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
@@ -42,16 +42,16 @@
 
 <p align="left" style="background:yellow">
 <a href="https://josejsneto.com.br/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-josejsneto.com.br-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>  
 <a href="https://linkedin.com/in/zejsneto" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-linkedin.com/in/zejsneto-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a> 
 <a href="https://zejsneto.itch.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-zejsneto.itch.io-05122A?style=flat&logo=Itch" alt="itch"/>
+  <img align="center" src="https://img.shields.io/badge/-Itch.io-05122A?style=flat&logo=Itch.io" alt="itch"/>
 </a> 
 <a href="https://www.artstation.com/zejsneto" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-artstation.com/zejsneto-05122A?style=flat&logo=artstation" alt="artstation"/>
+  <img align="center" src="https://img.shields.io/badge/-ArtStation-05122A?style=flat&logo=artstation" alt="artstation"/>
 </a> 
 <!---
 <a href="https://www.youtube.com/channel/mychannel" target="_blank">
