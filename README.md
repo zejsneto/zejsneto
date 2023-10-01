@@ -12,7 +12,7 @@
 
 - 💬 Send me an email or a dm, let's get in touch!
 
-- 🌎 From São Paulo, Brazil.
+- 🌎 São Bernardo do Campo, SP, Brazil.
 
 ## 🛠 &nbsp;Languages & Tools
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
