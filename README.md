@@ -42,7 +42,11 @@
 -->
 
 ## 📲 &nbsp;Socials
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josejsneto.com.br/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zejsneto/)
+[![itchio](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://zejsneto.itch.io/)
+[![artstation](https://img.shields.io/badge/artstation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white)](https://www.artstation.com/zejsneto)
+<!--
 <p align="left" style="background:yellow">
 <a href="https://josejsneto.com.br/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=codepen" alt="codepen"/>
@@ -63,8 +67,9 @@
 <a href="https://www.youtube.com/channel/mychannel" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-zejsneto-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a> 
--->
+
 </p>
+-->
 
 ## 📊 &nbsp;Stats
 <div align="center">
