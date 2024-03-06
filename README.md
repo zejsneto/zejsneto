@@ -6,7 +6,7 @@
 
 <!---- - 💼 Currently working at [Company](https://www.company.com/) --> 
 
-- 👨‍💻 View my portfolio [josejsneto.com.br](https://josejsneto.com.br/)
+- 👨‍💻 Take a look at my portfolio [josejsneto.com.br](https://josejsneto.com.br/)
 
 <!---- ▶️ Subscribe to my channel [youtube.com/c/channelname](https://www.youtube.com/channel/link) -->
 
