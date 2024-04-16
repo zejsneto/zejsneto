@@ -2,11 +2,11 @@
 
 - 🎓 Computer Science (2024) │ [Centro Universitário FEI](https://portal.fei.edu.br/)
 
-- 📚 Currently learning Game Development
-
-<!---- - 💼 Currently working at [Company](https://www.company.com/) --> 
+- 💼 Currently working as a FQA Tester at [Red Cerberus](https://www.redcerberus.com/) 
 
 - 👨‍💻 Take a look at my portfolio [josejsneto.com.br](https://josejsneto.com.br/)
+
+- 📚 Learning Game Development
 
 <!---- ▶️ Subscribe to my channel [youtube.com/c/channelname](https://www.youtube.com/channel/link) -->
 
