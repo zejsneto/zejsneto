@@ -2,8 +2,8 @@
 
 - 🎓 Computer Science (2024) │ [Centro Universitário FEI](https://portal.fei.edu.br/)
 
+- 💼 Currently working as a QA Specialist at [Nota Control](https://www.notacontrol.com.br/portalnfse/#/home) 
 <!--
-- 💼 Currently working as a FQA Tester at [Red Cerberus](https://www.redcerberus.com/) 
 
 - 👨‍💻 Take a look at my portfolio [josejsneto.com.br](https://josejsneto.com.br/)
 
@@ -14,7 +14,7 @@
 
 - 💬 Send me an email or a dm, let's get in touch!
 
-- 🌎 São Paulo, Brazil.
+- 🌎 Campo Grande - MS, Brazil.
 
 ## 🛠 &nbsp;Languages & Tools
 <!--
