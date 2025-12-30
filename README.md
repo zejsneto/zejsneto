@@ -1,20 +1,16 @@
 <h1 align="left">Hello, I'm José Neto <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=blue" alt="Profile views" /></h1>
 
-- 🎓 Computer Science (2024) │ [Centro Universitário FEI](https://portal.fei.edu.br/)
-
-- 💼 Currently working as a QA Specialist at [Nota Control](https://www.notacontrol.com.br/portalnfse/#/home) 
+- 🎓 **Bachelor’s Degree in Computer Science** — [Centro Universitário FEI](https://portal.fei.edu.br/)
+- 💼 **QA Specialist** at [Nota Control](https://www.notacontrol.com.br/portalnfse/#/home)
+- 🚀 **5+ years of experience** in software development & quality assurance  
+- 🧩 **30+ projects delivered**, ranging from games to web and educational systems
+- 🌎 Based in **Campo Grande - MS, Brazil**
+- 💬 Feel free to reach out via email or LinkedIn
 <!--
-
 - 👨‍💻 Take a look at my portfolio [josejsneto.com.br](https://josejsneto.com.br/)
-
 - 📚 Learning Game Development
+- ▶️ Subscribe to my channel [youtube.com/c/channelname](https://www.youtube.com/channel/link)
 -->
-
-<!---- ▶️ Subscribe to my channel [youtube.com/c/channelname](https://www.youtube.com/channel/link) -->
-
-- 💬 Send me an email or a dm, let's get in touch!
-
-- 🌎 Campo Grande - MS, Brazil.
 
 ## 🛠 &nbsp;Languages & Tools
 <!--
