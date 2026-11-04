@@ -1,5 +1,8 @@
+<h1> 👋 Oi </h1>
+
+
 <!--
-<h1 align="left">Hello, I'm José Neto <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=blue" alt="Profile views" /></h1>
+<h1 align="left">👋 Oi <img align="right" src="https://komarev.com/ghpvc/?username=zejsneto&color=blue" alt="Profile views" /></h1>
 
 - 🎓 **Bachelor’s Degree in Computer Science** — [Centro Universitário FEI](https://portal.fei.edu.br/)
 - 💼 **QA Specialist** at [Nota Control](https://www.notacontrol.com.br/portalnfse/#/home)
